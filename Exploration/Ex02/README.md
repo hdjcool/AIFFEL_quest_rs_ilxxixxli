@@ -34,6 +34,8 @@
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
     
     - **불필요한 칼럼을 제거할수록 더 좋은 결과가 나오는 것을 확인했습니다.**
+  
+
       <img width="276" alt="캡처1" src="https://github.com/user-attachments/assets/9604c967-8f17-456e-90c0-d6dcb1d73a00">
 
         
@@ -43,6 +45,8 @@
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
     
     - **하나의 코드로 간결하게 작성해주셔서 한눈에 보기 쉽게 이해할 수 있어 종았습니다.**
+ 
+      
         <img width="198" alt="캡처3" src="https://github.com/user-attachments/assets/a7379538-0c26-48e6-9ce3-292cf3aae207">
 
 
